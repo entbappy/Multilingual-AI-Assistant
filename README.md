@@ -1,4 +1,4 @@
-# Medical Chatbot with Llama 2, Pinecone, LangChain, Flask
+# Multilingual-AI-Assistant
 
 
 # How to run?
